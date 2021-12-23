@@ -15,14 +15,25 @@
     ],
 
     "tuotteet": [
-        {
-         "id": 1234, 
-         "nimi": "oblob", 
-         "selite": "kätevä seinäkaluste", 
-         "tyyppi_id": 0,
-         "ostopvm": "2019-06-16",
-         "valmistaja": "Siemens",
-         "hinta": 15
-        }
+        {"id": 123, "nimi": "oblob", "selite": "kätevä seinäkaluste", "tyyppi_id": 0, "ostopvm": "2019-06-16", "valmistaja": "Siemens", "hinta": 15},
+        {"id": 234, "nimi": "boldb", "selite": "epäkätevä seinäkaluste", "tyyppi_id": 0, "ostopvm": "2018-05-23", "valmistaja": "Fujitsu", "hinta": 12},
+        {"id": 345, "nimi": "nogb", "selite": "metku vekotin", "tyyppi_id": 1, "ostopvm": "2011-04-12", "valmistaja": "Samsung", "hinta": 46},
+        {"id": 456, "nimi": "albag", "selite": "aika vekotin", "tyyppi_id": 1, "ostopvm": "2021-12-01", "valmistaja": "Nokia", "hinta": 17},
+        {"id": 456, "nimi": "bibel", "selite": "joku härpätin", "tyyppi_id": 2, "ostopvm": "2001-11-09", "valmistaja": "Stockman", "hinta": 27},
+        {"id": 456, "nimi": "am", "selite": "vaarallinen härpätin", "tyyppi_id": 2, "ostopvm": "1995-10-31", "valmistaja": "Ellison", "hinta": 10},
+        {"id": 567, "nimi": "dorb", "selite": "ovela hilavitkutin", "tyyppi_id": 3, "ostopvm": "2007-08-25", "valmistaja": "Samsung", "hinta": 56},
+        {"id": 678, "nimi": "flurdr", "selite": "kaamea hilavitkutin", "tyyppi_id": 3, "ostopvm": "2008-08-08", "valmistaja": "Nokia", "hinta": 11},
+        {"id": 789, "nimi": "gord", "selite": "suuri härveli", "tyyppi_id": 4, "ostopvm": "2013-11-25", "valmistaja": "Varusteleka", "hinta": 67},
+        {"id": 135, "nimi": "sbnb", "selite": "pieni härveli", "tyyppi_id": 4, "ostopvm": "2013-11-15", "valmistaja": "Ikea", "hinta": 63},
+        {"id": 246, "nimi": "bong", "selite": "ehto turhake", "tyyppi_id": 5, "ostopvm": "2020-12-12", "valmistaja": "Ikea", "hinta": 23},
+        {"id": 357, "nimi": "ngt", "selite": "super turhake", "tyyppi_id": 5, "ostopvm": "2011-12-12", "valmistaja": "Siemens", "hinta": 54},
+        {"id": 468, "nimi": "hamb", "selite": "hölmö hömpötin", "tyyppi_id": 6, "ostopvm": "2021-12-12", "valmistaja": "Alepa", "hinta": 89},
+        {"id": 579, "nimi": "berz", "selite": "viisas hömpötin", "tyyppi_id": 6, "ostopvm": "2011-05-17", "valmistaja": "ABC", "hinta": 62},
+        {"id": 124, "nimi": "wolksvagen", "selite": "kova menopeli", "tyyppi_id": 7, "ostopvm": "2012-05-15", "valmistaja": "Golf", "hinta": 53},
+        {"id": 235, "nimi": "obbel", "selite": "hidas menopeli", "tyyppi_id": 7, "ostopvm": "2013-05-15", "valmistaja": "Astra", "hinta": 52},
+        {"id": 346, "nimi": "sffffff", "selite": "liukas hörpäke", "tyyppi_id": 8, "ostopvm": "2009-11-15", "valmistaja": "Halpahalli", "hinta": 67},
+        {"id": 457, "nimi": "aaaaa", "selite": "tahmea hörpäke", "tyyppi_id": 8, "ostopvm": "2000-09-25", "valmistaja": "Viherkirppis", "hinta": 12},
+        {"id": 568, "nimi": "sorneda", "selite": "pikainen mokkula", "tyyppi_id": 9, "ostopvm": "2020-05-22", "valmistaja": "CIA", "hinta": 62},
+        {"id": 679, "nimi": "ablbl", "selite": "limainen mokkula", "tyyppi_id": 9, "ostopvm": "2021-05-22", "valmistaja": "DNA", "hinta": 52}
      ]
 }
