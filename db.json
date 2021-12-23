@@ -1,10 +1,16 @@
 {
     "tuotetyyppi": [
-       {
-        "id": 0, 
-        "nimi": "kaluste", 
-        "koodi": 1
-       }
+       {"id": 0, "nimi": "kaluste", "koodi": 12},
+       {"id": 1, "nimi": "vekotin", "koodi": 23},
+       {"id": 2, "nimi": "härpätin", "koodi": 34},
+       {"id": 3, "nimi": "hilavitkutin", "koodi": 45},
+       {"id": 4, "nimi": "härveli", "koodi": 56},
+       {"id": 5, "nimi": "turhake", "koodi": 67},
+       {"id": 6, "nimi": "hömpötin", "koodi": 78},
+       {"id": 7, "nimi": "menopeli", "koodi": 89},
+       {"id": 8, "nimi": "hörpäke", "koodi": 13},
+       {"id": 9, "nimi": "mokkula", "koodi": 24}
+        
        
     ],
 
