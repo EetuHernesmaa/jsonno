@@ -1,0 +1,22 @@
+{
+    "tuotetyyppi": [
+       {
+        "id": 0, 
+        "nimi": "kaluste", 
+        "koodi": 1
+       }
+       
+    ],
+
+    "tuotteet": [
+        {
+         "id": 1234, 
+         "nimi": "oblob", 
+         "selite": "kätevä seinäkaluste", 
+         "tyyppi_id": 0,
+         "ostopvm": "2019-06-16",
+         "valmistaja": "Siemens",
+         "hinta": 15
+        }
+     ]
+}
